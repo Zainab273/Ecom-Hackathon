@@ -9,10 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+<<<<<<< HEAD
+    "next": "^14.2.20",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.4.0",
+    "sharp": "^0.33.5"
+=======
     "next": "15.0.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.4.0"
+>>>>>>> 63ac353e4b8898884b31f276682ab389c732312e
   },
   "devDependencies": {
     "@iconify/react": "^5.1.0",
